@@ -171,7 +171,7 @@ export default function ContactPage() {
                   <div className="flex items-center space-x-4">
                     <Mail className="h-6 w-6 text-primary" />
                     <div>
-                      <p className="font-semibold font-outfit">📧 Email</p>
+                      <p className="font-semibold font-outfit"> Email</p>
                       <p className="text-gray-600 font-hanken">info@proplus.co.tz</p>
                     </div>
                   </div>
@@ -179,7 +179,7 @@ export default function ContactPage() {
                   <div className="flex items-center space-x-4">
                     <Phone className="h-6 w-6 text-primary" />
                     <div>
-                      <p className="font-semibold font-outfit">☎️ Phone</p>
+                      <p className="font-semibold font-outfit"> Phone</p>
                       <p className="text-gray-600 font-hanken">+255 766 831 124</p>
                     </div>
                   </div>
@@ -187,7 +187,7 @@ export default function ContactPage() {
                   <div className="flex items-start space-x-4">
                     <MapPin className="h-6 w-6 text-primary mt-1" />
                     <div>
-                      <p className="font-semibold font-outfit">📍 Address</p>
+                      <p className="font-semibold font-outfit"> Address</p>
                       <p className="text-gray-600 font-hanken">
                         Plot 235, Oyster Bay
                         <br />
