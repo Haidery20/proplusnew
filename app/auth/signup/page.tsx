@@ -60,7 +60,7 @@ export default function SignUpPage() {
         {/* Header */}
         <div className="text-center">
         <Link href="/" className="inline-block">
-            <img src="/images/proplus-logo.jpg" alt="ProPlus Logo" className="h-12 w-auto mx-auto" />
+            <img src="/images/proplus.svg" alt="ProPlus Logo" className="h-14 w-auto mx-auto" />
           </Link>
           <h2 className="mt-6 text-3xl font-bold text-gray-900 font-outfit">Create your account</h2>
           <p className="mt-2 text-sm text-gray-600 font-hanken">Join ProPlus to access quality maternal healthcare</p>
