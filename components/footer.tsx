@@ -9,7 +9,7 @@ export function Footer() {
           <img src="/images/proplus-logo.jpg" alt="ProPlus Logo" className="h-8 w-auto mr-3" />
             <h3 className="text-2xl font-bold text-white font-outfit mb-4">ProPlus</h3>
             <p className="text-gray-300 font-hanken mb-4">
-              Your maternal healthcare companion — Empowering healthcare with modern tools for better care.
+              Your maternal healthcare companion Empowering healthcare with modern tools for better care.
             </p>
           </div>
 
