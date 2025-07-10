@@ -22,7 +22,7 @@ export function Navigation() {
         <div className="flex justify-between items-center h-16">
         <Link href="/" className="flex items-center">
             {/* Official ProPlus Logo */}
-            <img src="/images/proplus-logo.png" alt="ProPlus Logo" className="h-8 w-auto" />
+            <img src="/images/proplus-logo.jpg" alt="ProPlus Logo" className="h-8 w-auto" />
           </Link>
 
           {/* Desktop Navigation */}
