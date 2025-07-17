@@ -260,8 +260,8 @@ export default function AboutPage() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <Card className="text-center bg-white border-0 shadow-lg hover:shadow-xl transition-shadow">
               <CardHeader>
-                <div className="w-16 h-16 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                  <Heart className="h-8 w-8 text-red-600" />
+                <div className="w-20 h-auto rounded-full flex items-center justify-center mx-auto mb-4">
+                  <img src= "/images/africanimpact.png" alt="AII Logo" className="h-8 w-auto" />
                 </div>
                 <CardTitle className="font-outfit">Africa Impact Initiative (AII)</CardTitle>
               </CardHeader>
@@ -273,8 +273,8 @@ export default function AboutPage() {
             </Card>
             <Card className="text-center bg-white border-0 shadow-lg hover:shadow-xl transition-shadow">
               <CardHeader>
-                <div className="w-16 h-16 bg-yellow-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                  <Lightbulb className="h-8 w-8 text-yellow-600" />
+                <div className="w-20 h-auto rounded-full flex items-center justify-center mx-auto mb-4">
+                  <img src= "/images/healthinnovation.png" alt="H2i Logo" />
                 </div>
                 <CardTitle className="font-outfit">Health Innovation Hub (H2i)</CardTitle>
               </CardHeader>
@@ -286,8 +286,8 @@ export default function AboutPage() {
             </Card>
             <Card className="text-center bg-white border-0 shadow-lg hover:shadow-xl transition-shadow">
               <CardHeader>
-                <div className="w-16 h-16 bg-indigo-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                  <Building className="h-8 w-8 text-indigo-600" />
+                <div className="w-20 h-auto rounded-full flex items-center justify-center mx-auto mb-4">
+                  <img src="/images/universityoftoronto.png" alt="University of Toronto" />
                 </div>
                 <CardTitle className="font-outfit">University of Toronto</CardTitle>
               </CardHeader>
