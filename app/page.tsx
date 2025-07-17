@@ -44,9 +44,9 @@ export default function HomePage() {
                 get a consultation, all from the comfort of your home.
               </p>
             </div>
-            <div className="bg-gray-100 rounded-lg p-8 flex items-center justify-center">
+            <div className=" rounded-lg p-8 flex items-center justify-center">
               <img
-                src="/placeholder.svg?height=400&width=300"
+                src="/images/appdashboard.png"
                 alt="Kasa app screenshot"
                 className="max-w-full h-auto rounded-lg shadow-lg"
               />
