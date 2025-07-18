@@ -48,7 +48,7 @@ export default function HomePage() {
               <img
                 src="/images/appdashboard.png"
                 alt="Kasa app screenshot"
-                className="max-w-full h-auto rounded-lg shadow-lg"
+                className="max-w-full h-auto rounded-lg "
               />
             </div>
           </div>
