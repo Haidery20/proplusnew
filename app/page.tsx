@@ -46,7 +46,7 @@ export default function HomePage() {
             </div>
             <div className=" rounded-lg p-8 flex items-center justify-center">
               <img
-                src="/images/appdashboard.png"
+                src="/images/android.png"
                 alt="Kasa app screenshot"
                 className="max-w-full h-auto rounded-lg "
               />
