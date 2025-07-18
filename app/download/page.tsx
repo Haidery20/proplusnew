@@ -118,7 +118,7 @@ export default function DownloadPage() {
               <div className="relative mx-auto mb-6" style={{ width: "240px" }}>
 
 
-                    <Image src="/images/android1.png"
+                    <Image src="/images/android.png"
                       alt="Kasa Africa Android App"
                       width={160}
                       height={320}
