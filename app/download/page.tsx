@@ -75,8 +75,7 @@ export default function DownloadPage() {
             {/* Tablet View */}
             <div className="text-center">
               <div className="relative mx-auto mb-6" style={{ width: "200px" }}>
-                <div className="bg-gray-900 rounded-2xl p-3">
-                  <div className="bg-white rounded-xl overflow-hidden">
+
                     <Image
                       src="/images/desktop.png"
                       alt="Kasa Africa Tablet App"
@@ -84,8 +83,6 @@ export default function DownloadPage() {
                       height={300}
                       className="w-full h-auto"
                     />
-                  </div>
-                </div>
                 <div className="absolute -bottom-2 left-1/2 transform -translate-x-1/2 w-16 h-1 bg-gray-400 rounded-full"></div>
               </div>
               <Tablet className="h-8 w-8 text-purple-600 mx-auto mb-2" />
@@ -116,15 +113,12 @@ export default function DownloadPage() {
             {/* Android View */}
             <div className="text-center">
               <div className="relative mx-auto mb-6" style={{ width: "240px" }}>
-
-
                     <Image src="/images/android.png"
                       alt="Kasa Africa Android App"
                       width={160}
                       height={320}
                       className="w-full h-auto"
                     />
-
               </div>
               <svg className="h-8 w-8 text-purple-600 mx-auto mb-2" viewBox="0 0 24 24" fill="currentColor">
                 <path d="M17.523,15.3414c-0.5511,0-0.9993-0.4486-0.9993-1.0006s0.4482-0.9993,0.9993-0.9993c0.5511,0,1,0.4473,1,0.9993S18.0741,15.3414,17.523,15.3414z M6.4767,15.3414c-0.5511,0-0.9993-0.4486-0.9993-1.0006s0.4482-0.9993,0.9993-0.9993c0.5511,0,1,0.4473,1,0.9993S7.0278,15.3414,6.4767,15.3414z M16.01,8.2578l1.5-2.6016c0.0833-0.1445,0.0337-0.3287-0.1108-0.4121c-0.1445-0.0833-0.3287-0.0337-0.4121,0.1108L15.4265,7.9688C14.3888,7.4844,13.2204,7.2266,12,7.2266s-2.3888,0.2578-3.4265,0.7422L7.0133,5.3549c-0.0833-0.1445-0.2675-0.1941-0.4121-0.1108C6.4567,5.3274,6.4071,5.5116,6.4904,5.6562l1.5,2.6016C6.4789,9.3203,5.25,10.8906,5.25,12.75h13.5C18.75,10.8906,17.5211,9.3203,16.01,8.2578z" />
