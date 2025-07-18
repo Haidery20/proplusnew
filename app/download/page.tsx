@@ -194,7 +194,14 @@ export default function DownloadPage() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <Card className="text-center">
               <CardHeader>
-                <Smartphone className="h-12 w-12 text-gray-700 mx-auto mb-4" />
+              <svg
+                  className="h-12 w-12 text-gray-700 mx-auto mb-4"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+                </svg>
                 <CardTitle className="font-outfit">Instant Access to Care</CardTitle>
               </CardHeader>
               <CardContent>
@@ -217,7 +224,19 @@ export default function DownloadPage() {
             </Card>
             <Card className="text-center">
               <CardHeader>
-                <Apple className="h-12 w-12 text-gray-700 mx-auto mb-4" />
+              <svg
+                  className="h-12 w-12 text-gray-700 mx-auto mb-4"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"
+                  />
+                </svg>
                 <CardTitle className="font-outfit">Personalized for You</CardTitle>
               </CardHeader>
               <CardContent>
