@@ -94,9 +94,9 @@ export default function DownloadPage() {
 
             {/* iPhone View */}
             <div className="text-center">
-              <div className="relative mx-auto mb-6" style={{ width: "320px" }}>
+              <div className="relative mx-auto mb-6" style={{ width: "160px" }}>
                     <Image
-                      src="/images/appdashboard.png"
+                      src="/images/ios.png"
                       alt="Kasa Africa iOS App"
                       width={160}
                       height={320}
